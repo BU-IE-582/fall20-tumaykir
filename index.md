@@ -1,3 +1,3 @@
 # IE-582
-## fall2020
+## fall-2020
 ### Tumay Kir's Progress Journal
