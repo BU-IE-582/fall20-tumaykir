@@ -9,3 +9,5 @@
 [Homework2](https://bu-ie-582.github.io/fall20-tumaykir/HW2-582)
 
 [Homework3](https://bu-ie-582.github.io/fall20-tumaykir/IE582-HW3)
+
+[Homework4](https://bu-ie-582.github.io/fall20-tumaykir/IE582-HW4)
