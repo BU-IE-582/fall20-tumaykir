@@ -17,3 +17,4 @@
 
 [FinalProject Code](https://bu-ie-582.github.io/fall20-tumaykir/FINAL/IE_582_PROJECT_FINAL.ipynb)
 
+[Final Exam](https://bu-ie-582.github.io/fall20-tumaykir/IE582FinalExam-TumayKir)
